@@ -2,7 +2,7 @@
 
 Revext is a simple tool that converts browser Extension IDs into Extension name.
 
-![Revext](https://ibb.co/Y2MQgTc)
+![Revext](https://i.ibb.co/NxPCRn9/2020-09-11-22-13-25-revextid-py-Visual-Studio-Code.png)
 
 ###### Purpose
 Discovery of browser extensions is interesting because the extensions are often vulnerable to known exploits.
