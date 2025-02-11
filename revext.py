@@ -20,8 +20,8 @@ def gen_header():
 ─██████──██████████─██████████████─────██████─────██████████████─████████──████████─────██████─────
 ───────────────────────────────────────────────────────────────────────────────────────────────────
 ------------------- Revext version v0.1. -------------------
-Created by: David "cybercitizen7" Kasabji
-Twitter: @cybercitizen7
+Created by: David / Netrunner
+X: @roo7cause
 Date Created: 11.09.2020
 Revext is a simple tool to convert Extensions IDs into Extensions Names.
 
